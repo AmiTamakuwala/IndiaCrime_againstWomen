@@ -3,12 +3,12 @@
  ![image](https://user-images.githubusercontent.com/92789707/209272791-9429bba7-2f39-4609-8401-8d60d8802b1c.png)
 
 Keywords:
-	Crimes ratio in Year
-	Crime ratio in different States/UT
-	Machine Learning
-	Data Analysis
-	Visualization
-	Crime detection.
+* Crimes ratio in Year
+*	Crime ratio in different States/UT
+* Machine Learning
+*	Data Analysis
+*	Visualization
+*	Crime detection.
 
 METHODOLOGY:
 The following modules are there in the proposed work: 
